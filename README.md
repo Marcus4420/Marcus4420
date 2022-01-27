@@ -26,6 +26,8 @@
 ## Web based
 - [ ] CSS Design
 - [ ] Responsiveness
+- [x] React
+- [ ] Tailwind CSS
 
 ## Database
 - [ ] MongoDB
