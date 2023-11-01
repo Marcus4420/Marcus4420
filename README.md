@@ -22,7 +22,7 @@
 # My work
 ## Current projects done
 These are some of the projects that I am **Most** proud of:
-| Project name     | Solo/Team      | Lanuage |Link to code|Link to hosted|
+| Project name     | Solo/Team      | Language |Link to code|Link to hosted|
 | ------------- |:-------------:| -----:|-----:|-----:|
 | SlotsFeed      | Solo | JavaScript |[Link](https://github.com/Marcus4420/SlotsFeed)|[Link](https://github.com/Marcus4420/SlotsFeed)|
 | Zlotty    | Team DigiTek      |   JavaScript & C++ (*Arduino*) |[Link](https://github.com/TeamDigiTek/Zlotty)|[Link](https://zlotty.herokuapp.com)|
