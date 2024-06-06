@@ -19,7 +19,6 @@
 ... Hope to hear from you soon! 🤓
 
 # My work
-## Current projects done
 These are some of the projects that I am **most** proud of:
 
 | Project Name | Status       | Context   | Technologies                      | GitHub Link                                                 |
