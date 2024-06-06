@@ -3,14 +3,16 @@
 - 🌏 I live in Odense, Denmark.
 ## My interests!
 - 👀 I’m interested in all things related to tech and programming.
-- 🌱 Currently, design patterns and Angular development have caught my attention.
+- 🌱 Currently, Rust and Angular development have my attention.
 ## My experiences!
-- 📚 Most of my current experience comes from school where I learned tools like P5, Node.js, Java, Arduino, Postgres, React, Angular, and much more.
-- 🔑 I also have some experience with various databases including Firebase, PostgreSQL, Supabase, and MongoDB!
+- 📚 Most of my current experience is in TypeScript, Java, Postgres and frameworks such as React, Angular and Java Spring Boot
+- 🔑 I also have some experience with various databases including PostgreSQL, Firebase, Supabase, and MongoDB!
 ## Reach out!
 - 💞️ I’m looking to collaborate on almost anything, as I'm currently building up my CV and skills for the future.
+- 🧑‍💻 I'm also looking for any job and internship opportunities
 - 📫 You can reach me for any questions or inquiries at my email: Marcusellested02@gmail.com
   - Find me on [LinkedIn](https://www.linkedin.com/in/marcus-ellested-39b729216/)
+  - My [personal website](Ellested.dev)
 
 > “Technology is best when it brings people together.”
 
@@ -20,7 +22,13 @@
 ## Current projects done
 These are some of the projects that I am **most** proud of:
 
-| Project name | Solo/Team | Language | Link to code | Link to hosted |
-|--------------|:---------:|:--------:|:------------:|:--------------:|
-| SlotsFeed    |   Solo    | JavaScript | [Link](https://github.com/Marcus4420/SlotsFeed) | [Link](https://github.com/Marcus4420/SlotsFeed) |
-| Zlotty       | Team DigiTek | JavaScript & C++ (*Arduino*) | [Link](https://github.com/TeamDigiTek/Zlotty) | [Link](https://zlotty.herokuapp.com) |
+| Project Name | Status       | Context   | Technologies                      | GitHub Link                                                 |
+|--------------|--------------|-----------|-----------------------------------|-------------------------------------------------------------|
+| Product Information Management System | Completed    | Academic  | Java, PostgreSQL, JavaFX         | [GitHub Repository](https://github.com/Marcus4420/PIM_second_semester) |
+| Beer Bros    | Completed    | Academic  | Java, PostgreSQL, JavaFX          | [GitHub Repository](https://github.com/BeerBrewersSem3/SEMPRO3)         |
+| Tauri Codepad| In Progress  | Personal  | React, Rust, Tauri                | [GitHub Repository](https://github.com/Marcus4420/tauri-notepad)        |
+| Level Up Library | Completed| Academic  | Laravel, Supabase, JavaScript     | [GitHub Repository](https://github.com/msundby/Level-Up-Library-Webtechnologies-SDU) |
+| DroneDudes   | In Progress  | Academic  | Java Spring Boot, Angular, Tailwind, PostgreSQL | [GitHub Repository](https://github.com/DroneDudes/SEMPRO4) |
+| Portfolio Website | In Progress | Personal  | Angular, Tailwind, Cloudflare    | [GitHub Repository](https://github.com/Marcus4420/my_portfolio)          |
+
+Thank you for visiting my profile!
