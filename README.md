@@ -2,27 +2,31 @@
 
 🌍 **Based in Odense, Denmark.**
 
-🏢 **Doing backend and infrastructure @ HR-ON.com**
+🏢 **Platform Engineer @ Energinet — building the infrastructure that keeps critical energy systems running.**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in Cloud & DevSecOps Engineering.
+I'm a platform engineer with a passion for Cloud, Kubernetes, and DevSecOps. I like building the internal
+platforms and pipelines that let other engineers ship reliably — especially where the stakes are as high
+as critical energy infrastructure.
 
 ## 🛠️ Tech Stack
 
-* **Languages:** TypeScript/Java/Rust
-* **Frameworks & Libraries:** Most JavaScript frameworks, Spring Boot, Tauri
+* **Languages:** Go/TypeScript/Rust/Java
+* **Platform & Infra:** Kubernetes, Docker, Terraform
+* **CI/CD & Observability:** Pipelines, golden paths, monitoring & SRE practices
 * **Databases:** PostgreSQL, MariaDB, Firebase, MongoDB
 
 ---
 
 ## 🔥 Currently Exploring
 
+* **Kubernetes**: Operators, platform tooling, and developer-facing abstractions.
+* **Terraform & IaC**: Reusable modules for cloud infrastructure.
+* **Observability**: Building reliability into platforms from day one.
 * **Rust**: Crafting performant and safe systems.
-* **Cloud providers**: Exploring AWS & Azure.
-* **DevOps**: Fixing pipelines and delivering efficiently.
 
 ---
 
@@ -47,6 +51,6 @@ Feel free to connect with me!
 🔗 **LinkedIn:** [Marcus Ellested](https://www.linkedin.com/in/marcus-ellested-39b729216/)
 🌐 **Website:** [Ellested.dev](https://ellested.dev)
 
-> *“Technology is best when it brings people together.”*
+> *"Technology is best when it brings people together."*
 
 Thanks for stopping by! ✨
